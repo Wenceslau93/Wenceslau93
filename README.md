@@ -1,6 +1,5 @@
 ### Hi there 😄
 
-<br/>
 
 <h2><b><p align="center">SOBRE</p><p align="center">Quem sou</p></b></h2>
 
