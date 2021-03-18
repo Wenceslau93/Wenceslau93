@@ -6,11 +6,11 @@
 <br/>
 
 
-Sou uma pessoa comprometida, tranquila, esforçado, em busca de objetivo pessoal e profissional.
+<b>Sou uma pessoa comprometida, tranquila, esforçado, em busca de objetivo pessoal e profissional.
 
-Resolvi entrar no universo Data Science por costar muito de matemática, estatística, programação e visualizar dados.
+Resolvi entrar no universo Data Science por gostar muito de matemática, estatística, programação e visualizar dados.
 
-Estou aprendendo e aplicando Regras de Negócio, Programação, Banco de Dados, identificando insights, utilizando conceitos estatísticos para buscar informações preciosas nos dados, aplicando técnicas de Big data analytics, Business analytics e previsões com Machine Learning para gerar as melhores soluções para os problemas que envolvam Data Science.
+Estou aprendendo e aplicando Regras de Negócio, Programação, Banco de Dados, identificando insights, utilizando conceitos estatísticos para buscar informações preciosas nos dados, aplicando técnicas de Big data analytics, Business analytics e previsões com Machine Learning para gerar as melhores soluções para os problemas que envolvam Data Science.</b>
 
 
 <br/>
