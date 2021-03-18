@@ -2,9 +2,9 @@
 
 <br/>
 
-<p align="center">
+<center>
 <h2><b>SOBRE<br/>
-Quem sou</b></h2></p>
+Quem sou</center>
 
 Sou uma pessoa comprometida, tranquila, esforçado, em busca de objetivo pessoal e profissional.
 
