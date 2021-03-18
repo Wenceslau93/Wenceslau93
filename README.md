@@ -3,6 +3,7 @@
 <br/>
 
 <center>SOBRE</center>
+<br/>
 Quem sou
 
 Sou uma pessoa comprometida, tranquila, esforçado, em busca de objetivo pessoal e profissional.
