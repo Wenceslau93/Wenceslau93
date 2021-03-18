@@ -6,7 +6,7 @@
 <br/>
 
 
-<p align="center"Sou uma pessoa comprometida, tranquila, esforçado, em busca de objetivo pessoal e profissional.
+<p align="center">Sou uma pessoa comprometida, tranquila, esforçado, em busca de objetivo pessoal e profissional.
 
 Resolvi entrar no universo Data Science por costar muito de matemática, estatística, programação e visualizar dados.
 
