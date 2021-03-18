@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align="center">SOBRE</p><p align="center">Quem sou</p>
+<h2><p align="center">SOBRE</p><p align="center">Quem sou</p></h2>
 
 <br/>
 
