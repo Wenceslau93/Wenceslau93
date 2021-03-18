@@ -4,7 +4,7 @@
 
 <p align="center">
 <h2><b><FONT COLOR="#dc4f7e">SOBRE<br/>
-Quem sou</FONT></b></h2>
+Quem sou</FONT></b></h2></p>
 
 Sou uma pessoa comprometida, tranquila, esforçado, em busca de objetivo pessoal e profissional.
 
