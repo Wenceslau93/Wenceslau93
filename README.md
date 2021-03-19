@@ -5,6 +5,8 @@
 
 <br/>
 
+ℹ️ Informações gerais 👩‍💻 🏳️‍🌈
+
 
 <b>Sou uma pessoa comprometida, tranquila, esforçado, em busca de objetivo pessoal e profissional.
 
