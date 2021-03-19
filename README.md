@@ -5,7 +5,7 @@
 
 <br/>
 
-ℹ️ Informações gerais 👩‍💻 🏳️‍🌈
+<a href="https://web.whatsapp.com/send?phone=5531988712037" target="_blank"><button class="submitform">Enviar Whatsapp</button></i></a>
 
 
 <b>Sou uma pessoa comprometida, tranquila, esforçado, em busca de objetivo pessoal e profissional.
