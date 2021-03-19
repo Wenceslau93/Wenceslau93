@@ -14,7 +14,7 @@ Estou aprendendo e aplicando Regras de Negócio, Programação, Banco de Dados, 
 
 <br/>
 
-<a width="70px" height="70px" href="https://web.whatsapp.com/send?phone=5531988712037"><img src="https://user-images.githubusercontent.com/62226746/111718502-c59ed900-8838-11eb-8303-319cdd386c5e.png" class="media-object  img-responsive img-thumbnail"></a>
+<a href="https://web.whatsapp.com/send?phone=5531988712037"><img width="70px" height="70px" src="https://user-images.githubusercontent.com/62226746/111718502-c59ed900-8838-11eb-8303-319cdd386c5e.png" class="media-object  img-responsive img-thumbnail"></a>
 
 
 <!--
