@@ -14,7 +14,7 @@ Estou aprendendo e aplicando Regras de Negócio, Programação, Banco de Dados, 
 
 <br/>
 
-<h2><b><p align="center">CONTATO</p>
+<h4><b><p align="center">CONTATO</p></h4>
 
 <a href="https://web.whatsapp.com/send?phone=5531988712037"><img width="70px" height="70px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/what.png" class="media-object  img-responsive img-thumbnail"></a>
 
