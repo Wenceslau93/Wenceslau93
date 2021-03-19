@@ -15,7 +15,7 @@ Estou aprendendo e aplicando Regras de Negócio, Programação, Banco de Dados, 
 <br/>
 
 
-<a href="https://web.whatsapp.com/send?phone=5531988712037" <img width="70px" height="70px" src="https://user-images.githubusercontent.com/62226746/111718502-c59ed900-8838-11eb-8303-319cdd386c5e.png" alt="some text"></a>
+<a href="https://web.whatsapp.com/send?phone=5531988712037" <img width="70px" height="70px" src="https://user-images.githubusercontent.com/62226746/111718502-c59ed900-8838-11eb-8303-319cdd386c5e.png"</a>
 
 <!--
 **Wenceslau93/Wenceslau93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
