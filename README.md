@@ -15,7 +15,7 @@ Estou aprendendo e aplicando Regras de Negócio, Programação, Banco de Dados, 
 <br/>
 
 
-<img src="https://user-images.githubusercontent.com/62226746/111718502-c59ed900-8838-11eb-8303-319cdd386c5e.png" alt="some text">
+<img width="300px" height="300px" src="https://user-images.githubusercontent.com/62226746/111718502-c59ed900-8838-11eb-8303-319cdd386c5e.png" alt="some text">
 <a href="https://web.whatsapp.com/send?phone=5531988712037" target="_blank"><button class="submitform"><b>Enviar Whatsapp</b></button></i></a>
 
 <!--
