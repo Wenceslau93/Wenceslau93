@@ -5,9 +5,6 @@
 
 <br/>
 
-<a href="https://web.whatsapp.com/send?phone=5531988712037" target="_blank"><button class="submitform">Enviar Whatsapp</button></i></a>
-
-
 <b>Sou uma pessoa comprometida, tranquila, esforçado, em busca de objetivo pessoal e profissional.
 
 Resolvi entrar no universo Data Science por gostar muito de matemática, estatística, programação e visualizar dados.
@@ -16,6 +13,8 @@ Estou aprendendo e aplicando Regras de Negócio, Programação, Banco de Dados, 
 
 
 <br/>
+
+<a href="https://web.whatsapp.com/send?phone=5531988712037" target="_blank"><button class="submitform"><b>Enviar Whatsapp</b></button></i></a>
 
 <!--
 **Wenceslau93/Wenceslau93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
