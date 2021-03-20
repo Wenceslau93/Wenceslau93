@@ -22,8 +22,8 @@ Gosto muito de estudar matemática, estatística, programação, visualização 
 
 <table align='center' border="1">
     <tr>
-        <td>Whatsapp</td>
-        <td>Linkedin</td>
+        <td align="center">Whatsapp</td>
+        <td align="center">Linkedin</td>
         <td align="center">E-mail</td>
     </tr>
     <tr>
