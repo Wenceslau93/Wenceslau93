@@ -9,7 +9,7 @@
 
 Gosto muito de estudar matemática, estatística, programação, visualização de dados, TI e entre outros.
 
-<center>Aqui você encontra alguns dos meus projetos.</center>
+<p align="center">Aqui você encontra alguns dos meus projetos.</center></p>
 
 </b>
 
