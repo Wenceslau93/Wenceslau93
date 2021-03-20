@@ -24,7 +24,7 @@ Gosto muito de estudar matemática, estatística, programação, visualização 
 
 <p align="center"><a href="https://www.linkedin.com/in/diego-wenceslau-67894677/"><img width="70px" height="70px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/linkedin.jpg" class="media-object  img-responsive img-thumbnail"></a></p>
 
-<p align="center"><a href="diegowenceslau16@hotmail.com"><img width="70px" height="70px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/email.png" class="media-object  img-responsive img-thumbnail"></a></p>
+<p align="center"><a href= mailto:diegowenceslau16@hotmail.com><img width="90px" height="90px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/email.png" class="media-object  img-responsive img-thumbnail"></a></p>
 
 <!--
 **Wenceslau93/Wenceslau93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
