@@ -20,9 +20,7 @@ Gosto muito de estudar matemática, estatística, programação, visualização 
 
 <h4><b><p align="center">CONTATO - Clique na imagem</p></h4>
 
-<p align="center"><a href="https://web.whatsapp.com/send?phone=5531988712037"><img width="70px" height="70px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/what.png" class="media-object  img-responsive img-thumbnail"></a></p>
-<p align="center"><a href="https://www.linkedin.com/in/diego-wenceslau-67894677/"><img width="70px" height="70px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/linkedin.jpg" class="media-object  img-responsive img-thumbnail"></a></p>
-<p align="center"><a href= mailto:diegowenceslau16@hotmail.com><img width="120px" height="70px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/email.png" class="media-object  img-responsive img-thumbnail"></a></p>
+<p align="center"><a href="https://web.whatsapp.com/send?phone=5531988712037"><img width="70px" height="70px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/what.png" class="media-object  img-responsive img-thumbnail"></a></p> <p align="center"><a href="https://www.linkedin.com/in/diego-wenceslau-67894677/"><img width="70px" height="70px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/linkedin.jpg" class="media-object  img-responsive img-thumbnail"></a></p> <p align="center"><a href= mailto:diegowenceslau16@hotmail.com><img width="120px" height="70px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/email.png" class="media-object  img-responsive img-thumbnail"></a></p>
 
 <!--
 **Wenceslau93/Wenceslau93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
