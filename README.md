@@ -18,10 +18,8 @@ Gosto muito de estudar matemática, estatística, programação, visualização 
 
 <br/>
 
-<h4><b><p align="center">CONTATO - Clique na imagem</p></h4>
+<h4><b>CONTATO - Clique na imagem</h4>
 
-
-<h4><b><p align="center">
 <table border="1">
     <tr>
         <td>Whatsapp</td>
@@ -34,7 +32,7 @@ Gosto muito de estudar matemática, estatística, programação, visualização 
         <td><p align="center"><a href= mailto:diegowenceslau16@hotmail.com><img width="120px" height="70px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/email.png" class="media-object  img-responsive img-thumbnail"></a></p></td>
     </tr>
 
-</table></p>
+</table>
 
 <!--
 **Wenceslau93/Wenceslau93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
