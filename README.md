@@ -24,7 +24,7 @@ Gosto muito de estudar matemática, estatística, programação, visualização 
     <tr>
         <td>Whatsapp</td>
         <td>Linkedin</td>
-        <td>E-mail</td>
+        <td><center>E-mail</center></td>
     </tr>
     <tr>
         <td><p align="center"><a href="https://web.whatsapp.com/send?phone=5531988712037"><img width="70px" height="70px" src="https://github.com/Wenceslau93/Wenceslau93/blob/main/what.png" class="media-object  img-responsive img-thumbnail"></a></p></td>
