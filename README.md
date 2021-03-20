@@ -11,7 +11,7 @@ Gosto muito de estudar matemática, estatística, programação, visualização 
 
 </b>
 
-<p align="center">Aqui você encontra alguns dos meus projetos.</center></p>
+<b>Aqui você encontra alguns dos meus projetos.</center></b>
 
 </b>
 
