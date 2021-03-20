@@ -21,7 +21,7 @@ Gosto muito de estudar matemática, estatística, programação, visualização 
 <h4><b><p align="center">CONTATO - Clique na imagem</p></h4>
 
 
-<h4><b><p align="center"<table border="1">
+<h4><b><p align="center" table border="1">
     <tr>
         <td>Whatsapp</td>
         <td>Linkedin</td>
