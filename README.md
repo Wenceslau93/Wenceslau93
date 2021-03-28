@@ -11,7 +11,7 @@ Gosto muito de estudar matemática, estatística, programação, visualização 
 
 </b>
 
-<b>Aqui você encontra alguns dos meus projetos: <a href="https://github.com/Wenceslau93?tab=repositories">PROJETOS</a></center></b>
+<b>Clique para encontrar alguns dos meus: <a href="https://github.com/Wenceslau93?tab=repositories">PROJETOS</a></center></b>
 
 </b>
 <br/>
