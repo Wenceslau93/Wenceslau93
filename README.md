@@ -7,7 +7,7 @@
 
 <b>Sou uma pessoa comprometida, tranquila, esforçado, em busca de objetivo pessoal e profissional.
 
-Gosto muito de estudar matemática, estatística, programação, visualização de dados, TI e entre outras coisas ;)
+Gosto muito de estudar matemática, estatística, programação, visualização de dados, TI e outras coisas ;)
 
 </b>
 
